@@ -1,6 +1,7 @@
 # Lori
 #Lori Corcoran's R assignment
-# Hello there, thsi is my first time to use Github, and the first time to write R code
+# Hello there, this is my first time to use Github, and the first time to write R code
+# thank you for review
 
 makeCacheMatrix <- function(x = numeric()) {
         m <- NULL
